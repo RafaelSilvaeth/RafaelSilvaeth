@@ -1,6 +1,6 @@
 # Olá Seja Bem-vindo(a) ao meu perfil ! 👋
 
-# 💫 Sobre Mim:
+# 👨‍💻 Sobre Mim:
 Me chamo Rafael sou atleta de BJJ apaixonado por tecnologia e estou em transição de carreira buscando novas oportunidades na área de Front-End !
 
 
