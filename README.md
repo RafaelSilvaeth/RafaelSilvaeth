@@ -45,8 +45,6 @@ Sou apaixonado por desenvolvimento web, programação e pelo processo de aprendi
 
 ## 🐍 Snake das contribuições
 
-> ⚠️ Para essa seção funcionar, você precisa configurar um GitHub Action que gera a snake automaticamente.  
-> Depois de configurar, a imagem abaixo passa a funcionar.
 
 <p align="center">
   <img 
