@@ -11,10 +11,9 @@
 </p>
 
 <p align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/Status-Em%20transi%C3%A7%C3%A3o%20de%20carreira-4c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Front--end-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-EM%20TRANSI%C3%87%C3%83O%20DE%20CARREIRA-4c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-FRONT--END-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEARNING-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -57,19 +56,10 @@ Sou apaixonado por desenvolvimento web, programação e pelo processo de aprendi
 
 <div align="center">
 
-<!-- HTML -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="60" height="60" style="margin: 15px;" />
-
-<!-- CSS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="60" height="60" style="margin: 15px;" />
-
-<!-- JavaScript -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 15px;" />
-
-<!-- Git -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin: 15px;" />
-
-<!-- GitHub -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="margin: 15px; filter: invert(1);" />
 
 </div>
@@ -78,10 +68,9 @@ Sou apaixonado por desenvolvimento web, programação e pelo processo de aprendi
 
 ## 🐍 Snake das contribuições
 
-> ⚠️ Para essa seção funcionar, você precisa configurar um *GitHub Action* que gera a snake automaticamente.  
+> ⚠️ Para essa seção funcionar, você precisa configurar um GitHub Action que gera a snake automaticamente.  
 > Depois de configurar, a imagem abaixo passa a funcionar.
 
-```md
 <p align="center">
   <img 
     src="https://github.com/RafaelSilvaeth/RafaelSilvaeth/blob/output/github-contribution-grid-snake-dark.svg" 
@@ -89,5 +78,19 @@ Sou apaixonado por desenvolvimento web, programação e pelo processo de aprendi
   />
 </p>
 
+---
+
+## 📬 Contato
+
+- 📧 **E-mail:** rafaelsilva.eth@outlook.com  
+- 🔗 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/rafael-silva-018bb9a9/)  
+- 🐙 **GitHub:** [RafaelSilvaeth](https://github.com/RafaelSilvaeth)
+
+---
+
+## ✨ Sempre evoluindo…
+
+Se quiser trocar ideias sobre projetos, estudar junto ou colaborar, estou sempre disponível!  
+Vamos crescer na área de tecnologia juntos! 🚀
 
 
