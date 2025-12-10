@@ -55,9 +55,6 @@ Sou apaixonado por desenvolvimento web, programação e pelo processo de aprendi
 <!-- GitHub -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="margin: 15px; animation: float 3.4s ease-in-out infinite; filter: invert(1);" />
 
-<!-- Linux -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" style="margin: 15px; animation: float 2.9s ease-in-out infinite;" />
-
 </div>
 
 ---
