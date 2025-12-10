@@ -21,17 +21,15 @@ Sou apaixonado por desenvolvimento web, programação e pelo processo de aprendi
 
 <p align="center">
   <img 
-    alt="Rafael's GitHub stats"
-    height="180"
-    src="https://stats-do-github.vercel.app/api?username=RafaelSilvaeth&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=RafaelSilvaeth&show_icons=true&theme=dark&count_private=true" 
+    height="180px"
   />
-
   <img 
-    alt="Top Languages"
-    height="180"
-    src="https://stats-do-github.vercel.app/api/top-langs/?username=RafaelSilvaeth&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSilvaeth&layout=compact&theme=dark" 
+    height="180px"
   />
 </p>
+
 
 
 ---
