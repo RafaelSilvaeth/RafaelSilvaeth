@@ -17,37 +17,59 @@ Sou apaixonado por desenvolvimento web, programação e pelo processo de aprendi
 
 ---
 
-## 🚀 Estatísticas do GitHub
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img 
-       alt="Rafael's GitHub stats"
-       height="180"
-       src="https://github-readme-stats-git-main-git-hub-user-content.vercel.app/api?username=RafaelSilvaeth&show_icons=true&theme=tokyonight"
+    alt="Rafael's GitHub stats"
+    height="180"
+    src="https://stats-do-github.vercel.app/api?username=RafaelSilvaeth&show_icons=true&theme=tokyonight"
   />
 
   <img 
-       alt="Top Languages"
-       height="180"
-       src="https://github-readme-stats-git-main-git-hub-user-content.vercel.app/api/top-langs/?username=RafaelSilvaeth&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+    height="180"
+    src="https://stats-do-github.vercel.app/api/top-langs/?username=RafaelSilvaeth&layout=compact&theme=tokyonight"
   />
 </p>
 
 
 ---
 
-## 🧠 Tecnologias que uso e estudo
+## 🚀 Tecnologias que uso e estudo
 
-<p align="center">
-  <img height="60" src="https://raw.githubusercontent.com/gist/RafaelSilvaeth/animated-html-logo.gif" />
-  <img height="60" src="https://raw.githubusercontent.com/gist/RafaelSilvaeth/animated-css-logo.gif" />
-  <img height="60" src="https://raw.githubusercontent.com/gist/RafaelSilvaeth/animated-javascript-logo.gif" />
-  <img height="60" src="https://raw.githubusercontent.com/gist/RafaelSilvaeth/animated-git-logo.gif" />
-  <img height="60" src="https://raw.githubusercontent.com/gist/RafaelSilvaeth/animated-github-logo.gif" />
-  <img height="60" src="https://raw.githubusercontent.com/gist/RafaelSilvaeth/animated-python-logo.gif" />
-</p>
+<div align="center">
+
+<!-- HTML -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="60" height="60" style="margin: 15px; animation: float 3s ease-in-out infinite;" />
+
+<!-- CSS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="60" height="60" style="margin: 15px; animation: float 3.2s ease-in-out infinite;" />
+
+<!-- JavaScript -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 15px; animation: float 2.8s ease-in-out infinite;" />
+
+<!-- Git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin: 15px; animation: float 3.1s ease-in-out infinite;" />
+
+<!-- GitHub -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="margin: 15px; animation: float 3.4s ease-in-out infinite; filter: invert(1);" />
+
+<!-- Linux -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" style="margin: 15px; animation: float 2.9s ease-in-out infinite;" />
+
+</div>
+
+---
+
+<style>
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+</style>
+
 
 > Caso queira, posso hospedar **GIFs personalizados** só para você.
 
