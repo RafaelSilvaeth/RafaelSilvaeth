@@ -31,8 +31,6 @@ Sou apaixonado por desenvolvimento web, programação e pelo processo de aprendi
 </p>
 
 
-
-
 ---
 
 ## 🚀 Tecnologias que uso e estudo
