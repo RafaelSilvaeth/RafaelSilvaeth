@@ -32,15 +32,15 @@ Sou apaixonado por desenvolvimento web, programação e pelo processo de aprendi
 <p align="center">
   <!-- Stats principais -->
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafaelSilvaeth&show_icons=true&theme=dark&count_private=true" 
-    height="180px"
-  />
-  <!-- Linguagens mais usadas -->
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafaelSilvaeth&layout=compact&theme=dark" 
-    height="180px"
-  />
-</p>
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafaelSilvaeth&show_icons=true&theme=dark&count_private=true" 
+  height="180px"
+/>
+
+<img 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafaelSilvaeth&layout=compact&theme=dark" 
+  height="180px"
+/>
+
 
 <p align="center">
   <!-- Streak stats -->
