@@ -1,9 +1,20 @@
-<!-- 🌙 README DARK + ÍCONES ANIMADOS -->
+<!-- 🌙 README DARK + ÍCONES + STATS -->
 
 <h1 align="center">👨‍💻 Rafael Silva</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+aprendizado;Buscando+minha+primeira+vaga+em+TI" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong>  
+</p>
+
+<p align="center">
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/Status-Em%20transi%C3%A7%C3%A3o%20de%20carreira-4c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Front--end-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -20,16 +31,25 @@ Sou apaixonado por desenvolvimento web, programação e pelo processo de aprendi
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
+  <!-- Stats principais -->
   <img 
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafaelSilvaeth&show_icons=true&theme=dark&count_private=true" 
     height="180px"
   />
+  <!-- Linguagens mais usadas -->
   <img 
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafaelSilvaeth&layout=compact&theme=dark" 
     height="180px"
   />
 </p>
 
+<p align="center">
+  <!-- Streak stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=RafaelSilvaeth&theme=dark&hide_border=true&date_format=j%20M[%20Y]" 
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
@@ -38,49 +58,36 @@ Sou apaixonado por desenvolvimento web, programação e pelo processo de aprendi
 <div align="center">
 
 <!-- HTML -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="60" height="60" style="margin: 15px; animation: float 3s ease-in-out infinite;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="60" height="60" style="margin: 15px;" />
 
 <!-- CSS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="60" height="60" style="margin: 15px; animation: float 3.2s ease-in-out infinite;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="60" height="60" style="margin: 15px;" />
 
 <!-- JavaScript -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 15px; animation: float 2.8s ease-in-out infinite;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 15px;" />
 
 <!-- Git -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin: 15px; animation: float 3.1s ease-in-out infinite;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin: 15px;" />
 
 <!-- GitHub -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="margin: 15px; animation: float 3.4s ease-in-out infinite; filter: invert(1);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="margin: 15px; filter: invert(1);" />
 
 </div>
 
 ---
 
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
-}
-</style>
+## 🐍 Snake das contribuições
+
+> ⚠️ Para essa seção funcionar, você precisa configurar um *GitHub Action* que gera a snake automaticamente.  
+> Depois de configurar, a imagem abaixo passa a funcionar.
+
+```md
+<p align="center">
+  <img 
+    src="https://github.com/RafaelSilvaeth/RafaelSilvaeth/blob/output/github-contribution-grid-snake-dark.svg" 
+    alt="Snake animation"
+  />
+</p>
 
 
-> Caso queira, posso hospedar **GIFs personalizados** só para você.
-
----
-
-## 📬 Contato
-
-- 📧 **E-mail:** rafaelsilva.eth@outlook.com  
-- 🔗 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/rafael-silva-018bb9a9/)  
-- 🐙 **GitHub:** [RafaelSilvaeth](https://github.com/RafaelSilvaeth)
-
----
-
-## ✨ Sempre evoluindo…
-
-Se quiser trocar ideias sobre projetos, estudar junto ou colaborar, estou sempre disponível!  
-Vamos crescer na área de tecnologia juntos! 🚀
-
----
 
