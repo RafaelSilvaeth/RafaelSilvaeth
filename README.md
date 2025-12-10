@@ -27,25 +27,7 @@ Sou apaixonado por desenvolvimento web, programação e pelo processo de aprendi
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafaelSilvaeth&show_icons=true&theme=dark&count_private=true" 
-    height="180px"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafaelSilvaeth&layout=compact&theme=dark" 
-    height="180px"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=RafaelSilvaeth&theme=dark&hide_border=true&date_format=j%20M[%20Y]" 
-    alt="GitHub Streak"
-  />
-</p>
 
 
 ---
