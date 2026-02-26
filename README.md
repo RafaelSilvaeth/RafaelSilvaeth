@@ -20,7 +20,7 @@
 
 ## 👋 Sobre mim
 
-Me chamo **Rafael Silva**, tenho **33 anos** e estou cursando **Análise e Desenvolvimento de Sistemas**.  
+Me chamo **Rafael Silva**, tenho **34 anos** e estou cursando **Análise e Desenvolvimento de Sistemas**.  
 Estou em **transição de carreira** e buscando minha **primeira oportunidade na área de tecnologia**.
 
 Sou apaixonado por desenvolvimento web, programação e pelo processo de aprendizado contínuo na área de TI.
